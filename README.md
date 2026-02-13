@@ -1,6 +1,9 @@
 # libft
 
-Custom C static library developed as part of the 42 (Codam) curriculum.
+![C](https://img.shields.io/badge/language-C-blue?style=flat-square)
+
+Static C library developed as part of the 42 (Codam) curriculum.
+
 
 The project consists of reimplementing standard C library functions and extending them with additional utilities, including a linked list API.
 
